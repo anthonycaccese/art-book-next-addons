@@ -3,7 +3,7 @@
 Custom Full Screen Artwork made for 1:1 Aspect Ratio Screens
 
 ## Preview
-
+https://github.com/anthonycaccese/art-book-next-addons/assets/1454947/b65304a1-9563-4777-9004-4351e6fafc8f
 
 ## How to use
 
