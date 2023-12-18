@@ -3,7 +3,8 @@
 Custom Full Screen Artwork made for 16:9 Aspect Ratio Screens
 
 ## Preview
-https://github.com/anthonycaccese/art-book-next-addons/assets/1454947/b65304a1-9563-4777-9004-4351e6fafc8f
+
+https://github.com/anthonycaccese/art-book-next-addons/assets/1454947/c9b7154f-2e00-4e7a-94a5-a53b2daa311e
 
 ## How to use
 
