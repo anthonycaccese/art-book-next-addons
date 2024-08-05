@@ -2,7 +2,7 @@
 
 Be aware: This is by no means an elaborate art project. There's a lot of people out there who create gorgeous themes (or customizations), I am not one of them and I do not claim to be!
 
-As a user of [KNULLI](https://www.knulli.org), I have customized the great Art-Book-Next theme a tiny bit. In this package you find
+However, as a user of [KNULLI](https://www.knulli.org), I have customized the great Art-Book-Next theme a **tiny** bit. In this package you find
 
 * my `artwork` folder with screenshots for all the different systems
 * my KNULLI Bootlogo
