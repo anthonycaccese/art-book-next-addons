@@ -33,7 +33,7 @@ I do not take any credit for this image, it is the same image that was used as b
 
 ### Bootlogo
 
-To use my KNULLI bootlogo, download the `.bmp` file that suits the resolution of your screen and replace your existing `bootlogo.bmp` with the new one. You will find more detailed instructions in the [KNULLI wiki](https://knulli.org/configure/customization/bootlogo/).
+To use my KNULLI bootlogo, download the `.bmp` file that suits the resolution of your screen and replace your existing `bootlogo.bmp` with the new one. (**Make sure to change the name to `bootlogo.bmp`!**) You will find more detailed instructions in the [KNULLI wiki](https://knulli.org/configure/customization/bootlogo/).
 
 The provided KNULLI bootlogo is a combination of the original KNULLI logo and the wallpaper that was used on the earliest KNULLI builds before it was called "KNULLI". I do not take credit for either the KNULLI logo or the wallpaper behind it, I just combined the two images because they look great together.
 
