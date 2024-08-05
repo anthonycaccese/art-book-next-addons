@@ -4,7 +4,7 @@ Be aware: This is by no means an elaborate art project. There's a lot of people 
 
 However, as a user of [KNULLI](https://www.knulli.org), I have customized the great Art-Book-Next theme a **tiny** bit. In this package you find
 
-* my `artwork` folder with alternative screenshots for some different systems *I* play which reflect *my* taste in gaming and focus some games that *I* consider to be defining for the respective system
+* my `artwork` folder with alternative screenshots for some of the systems I play which reflect *my* taste in gaming and focus some games that I consider to be defining for the respective system
 * my KNULLI Bootlogo
     * in 640x480 resolution (for the Anbernic RG35XX H/Plus/SP series and the RG40XX H)
     * in 1280x720 resolution (for the TrimUI Smart Pro)
