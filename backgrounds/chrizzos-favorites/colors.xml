@@ -1,0 +1,9 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables>
+      <splashProgressBarColor>4E5C17</splashProgressBarColor>
+      <splashProgressBarColorEnd>4E5C17</splashProgressBarColorEnd>
+      <splashProgressBarActiveColor>CACA6F</splashProgressBarActiveColor>
+      <splashProgressBarActiveColorEnd>CACA6F</splashProgressBarActiveColorEnd>
+   </variables>
+</theme>
