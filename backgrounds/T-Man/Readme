@@ -10,4 +10,4 @@ The only odd one out would be the C64 game, since, I don't think this game reall
 TLDR: Installation instructions:
 1. Downlaod the files.
 2. Make your choice out of the dreamcast and psx variants. Make sure that you rename 'dreamcast-alternative.png' to 'dreamcast.png' if you want to use that one, and make sure you rename either 'psx-alternative.png' or 'ps1.png' to 'psx.png'.
-3. (This is what I did) I replaced the foiles found in: 'themes\art-book-next-es\_inc\systems\artwork-default' with the files here, I'm sure you can also just add them or something too. Make sure you back up the files in this folder if you would ever want to revert back.
+3. (This is what I did) I replaced the files found in: 'themes\art-book-next-es\_inc\systems\artwork-default' with the files here. Before you do this: Make sure you back up the files in this folder if you would ever want to revert back. I'm sure you can also just add them somehow too, if you care to figure that out. 
