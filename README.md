@@ -1,6 +1,6 @@
-This is a repo for hosting user created addons for Art Book Next
+This is a repo of user created addons for [Art Book Next](https://github.com/anthonycaccese/art-book-next-es)
 
-## To Contribute:
+## To contribute:
 
 - If you have a github account:
     - fork this repo and then make a new folder for your images within in the backgrounds folder.
@@ -12,3 +12,7 @@ This is a repo for hosting user created addons for Art Book Next
    - Create an issue in this repo with a subject "User Submission: [Name of your set]"
    - Add your custom images to that issue
    - I'll add them to the repo manually from there
+
+## To use
+
+- To use any of the files you find here please check out the instructions for user customziations [here](https://github.com/anthonycaccese/art-book-next-es?tab=readme-ov-file#theme-customizations)
