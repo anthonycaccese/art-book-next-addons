@@ -1,0 +1,13 @@
+Here's some custom images.
+Some of them are quite similar to stock. The idea is to frame characters a bit higher up. Doesn't look too good when they're standing on the black button-prompt bar (at least not on my cube).
+Also, to have some diversity, and not just Sonic featured on most sega screenshots.
+I've picked some of my favourite games from each of these systems, and I'm quite happy with all of them. Perhaps the Psx alternative screenshot isn't all that good.
+The ps1 needs to be renamed to psx.png before use. For some reason, naming it psx here isn't working well.
+An alternative for the Dreamcast featuring Vyse instead of Aika is also present here, just rename that one to dreamcast.png.
+Some of them are a bit fabricated using sprites and photoshop.
+The only odd one out would be the C64 game, since, I don't think this game really exists for the c64.
+
+TLDR: Installation instructions:
+1. Downlaod the files.
+2. Make your choice out of the dreamcast and psx variants. Make sure that you rename 'dreamcast-alternative.png' to 'dreamcast.png' if you want to use that one, and make sure you rename either 'psx-alternative.png' or 'ps1.png' to 'psx.png'.
+3. (This is what I did) I replaced the files found in: 'themes\art-book-next-es\_inc\systems\artwork-default' with the files here. Before you do this: Make sure you back up the files in this folder if you would ever want to revert back. I'm sure you can also just add them somehow too, if you care to figure that out. 
