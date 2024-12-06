@@ -13,6 +13,6 @@ This is a repo of user created addons for [Art Book Next](https://github.com/ant
    - Add your custom images to that issue
    - I'll add them to the repo manually from there
 
-## To use
+## To use:
 
 - To use any of the files you find here please check out the instructions for user customziations [here](https://github.com/anthonycaccese/art-book-next-es?tab=readme-ov-file#theme-customizations)
